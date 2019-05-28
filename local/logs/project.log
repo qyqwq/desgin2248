@@ -1,0 +1,583 @@
+2019-05-25T09:07:36.931Z - normal: Load ~/.CocosCreator/settings.json
+2019-05-25T09:07:38.291Z - normal: Initializing Asset Database
+2019-05-25T09:07:38.296Z - normal: checking language setting...
+2019-05-25T09:07:38.296Z - normal: Language: zh
+2019-05-25T09:07:39.567Z - success: preview server running at http://localhost:7457
+2019-05-25T09:07:39.568Z - success: protocol editor-framework registered
+2019-05-25T09:07:39.568Z - success: protocol app registered
+2019-05-25T09:07:39.568Z - success: protocol theme registered
+2019-05-25T09:07:39.568Z - success: protocol packages registered
+2019-05-25T09:07:39.568Z - success: protocol uuid registerred
+2019-05-25T09:07:39.568Z - success: protocol db registerred
+2019-05-25T09:07:39.568Z - success: protocol thumbnail registerred
+2019-05-25T09:07:39.568Z - success: protocol unpack registerred
+2019-05-25T09:07:39.569Z - success: protocol disable-commonjs registerred
+2019-05-25T09:07:39.723Z - normal: connected!
+2019-05-25T09:07:39.725Z - normal: Check project E:\Code\cocostext\a2248
+2019-05-25T09:07:39.727Z - normal: Initializing project E:\Code\cocostext\a2248
+2019-05-25T09:07:40.419Z - normal: Initializing Cocos2d
+2019-05-25T09:07:41.508Z - normal: Initializing engine extends
+2019-05-25T09:07:41.539Z - success: asset-db-debugger loaded
+2019-05-25T09:07:41.540Z - success: baidu-adapter loaded
+2019-05-25T09:07:41.543Z - success: code-editor loaded
+2019-05-25T09:07:41.543Z - success: color-picker loaded
+2019-05-25T09:07:41.682Z - success: fb-audience-network loaded
+2019-05-25T09:07:41.799Z - success: fb-live-stream loaded
+2019-05-25T09:07:41.806Z - success: google-play-instant loaded
+2019-05-25T09:07:41.813Z - success: huawei-runtime loaded
+2019-05-25T09:07:41.814Z - success: jsb-adapter loaded
+2019-05-25T09:07:41.821Z - success: oppo-runtime loaded
+2019-05-25T09:07:41.827Z - success: package-manager loaded
+2019-05-25T09:07:42.032Z - success: qqplay-adapter loaded
+2019-05-25T09:07:42.034Z - success: runtime-dev-tools loaded
+2019-05-25T09:07:42.040Z - success: sdkbox loaded
+2019-05-25T09:07:42.045Z - success: tester loaded
+2019-05-25T09:07:42.048Z - success: ui-grid loaded
+2019-05-25T09:07:42.051Z - success: ui-kit-preview-extra loaded
+2019-05-25T09:07:42.054Z - success: ui-kit-preview loaded
+2019-05-25T09:07:42.058Z - success: ui-kit loaded
+2019-05-25T09:07:42.060Z - success: ui-tree loaded
+2019-05-25T09:07:42.067Z - success: vivo-runtime loaded
+2019-05-25T09:07:42.068Z - success: weapp-adapter loaded
+2019-05-25T09:07:42.120Z - success: assets loaded
+2019-05-25T09:07:42.123Z - success: builder loaded
+2019-05-25T09:07:42.597Z - success: cocos-services loaded
+2019-05-25T09:07:42.603Z - success: console loaded
+2019-05-25T09:07:42.661Z - success: fb-instant-games loaded
+2019-05-25T09:07:42.663Z - success: google-instant-games loaded
+2019-05-25T09:07:42.669Z - success: hierarchy loaded
+2019-05-25T09:07:42.672Z - success: inspector loaded
+2019-05-25T09:07:42.674Z - success: keystore loaded
+2019-05-25T09:07:42.686Z - success: node-library loaded
+2019-05-25T09:07:42.689Z - success: package-asset loaded
+2019-05-25T09:07:42.692Z - success: preferences loaded
+2019-05-25T09:07:42.696Z - success: project-exporter loaded
+2019-05-25T09:07:42.708Z - success: project-importer loaded
+2019-05-25T09:07:42.715Z - success: project-settings loaded
+2019-05-25T09:07:42.724Z - success: scene loaded
+2019-05-25T09:07:42.728Z - success: simulator-debugger loaded
+2019-05-25T09:07:42.733Z - success: sprite-editor loaded
+2019-05-25T09:07:42.745Z - success: store loaded
+2019-05-25T09:07:42.759Z - success: timeline loaded
+2019-05-25T09:07:44.355Z - info: Cocos Services load base data!
+2019-05-25T09:07:44.988Z - normal: Loading packages
+2019-05-25T09:07:45.002Z - normal: Watching packages
+2019-05-25T09:07:46.068Z - normal: Run Application
+2019-05-25T09:23:29.460Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2019-05-25T09:23:29.462Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2019-05-25T09:23:29.462Z - normal: Simulator: FRAME SCALE = 1.00
+2019-05-25T09:23:30.166Z - normal: Simulator: Ready for GLSL
+2019-05-25T09:23:30.167Z - normal: Simulator: Ready for OpenGL 2.0
+2019-05-25T09:23:30.193Z - normal: Simulator: Project Config:
+2019-05-25T09:23:30.195Z - normal: Simulator:     project dir: E:\soft\CocosCreator\resources\cocos2d-x\simulator\win32\
+2019-05-25T09:23:30.196Z - normal: Simulator:     writable path: $(PROJDIR)\
+2019-05-25T09:23:30.196Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2019-05-25T09:23:30.196Z - normal: Simulator:     frame size: 640 x 960
+2019-05-25T09:23:30.197Z - normal: Simulator:     frame scale: 1.00
+2019-05-25T09:23:30.197Z - normal: Simulator:     show console: NO
+2019-05-25T09:23:30.198Z - normal: Simulator:     write debug log: NO ()
+2019-05-25T09:23:30.198Z - normal: Simulator:     listen: 
+2019-05-25T09:23:30.198Z - normal: Simulator:     debugger: none
+2019-05-25T09:23:30.199Z - normal: Simulator:     add searching path:
+2019-05-25T09:23:30.200Z - normal: Simulator: 
+2019-05-25T09:23:30.201Z - normal: Simulator: 
+2019-05-25T09:23:30.201Z - normal: Simulator: 
+2019-05-25T09:23:30.201Z - normal: Simulator: resetDesignResolution request
+2019-05-25T09:23:30.201Z - normal: Simulator: ------------------------------------------------
+2019-05-25T09:23:30.201Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2019-05-25T09:23:30.201Z - normal: Simulator: ------------------------------------------------
+2019-05-25T09:23:30.201Z - normal: Simulator: D/jswrapper (368): Initializing V8, version: 6.0.286.52
+2019-05-25T09:23:30.634Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2019-05-25T09:23:30.640Z - error: Simulator: E/jswrapper (427): Starting inspector on 0.0.0.0:5086 failed: address already in use
+    at HTMLElement.print-simulator-log (E:\soft\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1501)
+    at Object.e._dispatch (E:\soft\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
+    at EventEmitter.o.on.s (E:\soft\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2917)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2019-05-25T09:23:33.852Z - error: Simulator: 
+==== C stack trace ===========================
+    at HTMLElement.print-simulator-log (E:\soft\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1501)
+    at Object.e._dispatch (E:\soft\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
+    at EventEmitter.o.on.s (E:\soft\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2917)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2019-05-25T09:23:33.853Z - error: Simulator: ====
+
+	get_wide_winmain_command_line [0x015D4E56+694]
+	get_wide_winma
+    at HTMLElement.print-simulator-log (E:\soft\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1501)
+    at Object.e._dispatch (E:\soft\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
+    at EventEmitter.o.on.s (E:\soft\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2917)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2019-05-25T09:23:33.853Z - error: Simulator: in_command_line [0x015D4C94+244]
+	wassert [0x015D6E4A+26]
+	cocos2d::GLFW
+    at HTMLElement.print-simulator-log (E:\soft\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1501)
+    at Object.e._dispatch (E:\soft\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
+    at EventEmitter.o.on.s (E:\soft\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2917)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2019-05-25T09:23:33.853Z - error: Simulator: EventHandler::setGLView [0x00324A91+304161]
+	cocos2d::Application::setD
+    at HTMLElement.print-simulator-log (E:\soft\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1501)
+    at Object.e._dispatch (E:\soft\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
+    at EventEmitter.o.on.s (E:\soft\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2917)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2019-05-25T09:23:33.854Z - error: Simulator: evicePixelRatio [0x0029EF0D+1821]
+	cocos2d::Applicati
+    at HTMLElement.print-simulator-log (E:\soft\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1501)
+    at Object.e._dispatch (E:\soft\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
+    at EventEmitter.o.on.s (E:\soft\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2917)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2019-05-25T09:23:33.866Z - error: Simulator: on::setDevicePixelRatio [0x0029EFFE+2062]
+	cocos2d
+    at HTMLElement.print-simulator-log (E:\soft\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1501)
+    at Object.e._dispatch (E:\soft\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
+    at EventEmitter.o.on.s (E:\soft\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2917)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2019-05-25T09:23:33.867Z - error: Simulator: ::Application::setDevicePixelRatio [0x0029E8FA+266]
+    at HTMLElement.print-simulator-log (E:\soft\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1501)
+    at Object.e._dispatch (E:\soft\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
+    at EventEmitter.o.on.s (E:\soft\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2917)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2019-05-25T09:23:33.867Z - error: Simulator: 
+	xxtea_decrypt [0x00799683+2438995]
+	xxtea_decrypt 
+    at HTMLElement.print-simulator-log (E:\soft\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1501)
+    at Object.e._dispatch (E:\soft\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
+    at EventEmitter.o.on.s (E:\soft\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2917)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2019-05-25T09:23:33.874Z - error: Simulator: [0x00799956+2439718]
+	cocos2d::Vec2::unrotate [0x0029E3FC+700]
+    at HTMLElement.print-simulator-log (E:\soft\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1501)
+    at Object.e._dispatch (E:\soft\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
+    at EventEmitter.o.on.s (E:\soft\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2917)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2019-05-25T09:23:33.875Z - error: Simulator: 	cocos2d::GLFWEventHandler::setGLView [0x004BCF9A+1976618]
+	cocos2d::Application::setDevicePixelRatio [0x002C3E41+153169]
+	cocos2d::Application::setDevicePixelRatio [0x002C2FEF+149503]
+	xxtea_decrypt [0x0086ED9
+    at HTMLElement.print-simulator-log (E:\soft\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1501)
+    at Object.e._dispatch (E:\soft\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
+    at EventEmitter.o.on.s (E:\soft\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2917)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2019-05-25T09:23:33.934Z - error: Simulator: E+3313262]
+	xxtea_decrypt [0x0086EC80+3312976]
+	xxtea_decrypt [0x0086EB2D+3312637]
+	xxtea_decrypt [0x0086EDA8+3313272]
+	BaseThreadInitThunk [0x771E8494+36]
+	RtlAreBitsSet [0x775841C8+136]
+	RtlAreBitsSet [0x77584198+88]
+	xxtea_decrypt [0x0086EDA0+3313264]
+    at HTMLElement.print-simulator-log (E:\soft\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1501)
+    at Object.e._dispatch (E:\soft\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
+    at EventEmitter.o.on.s (E:\soft\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2917)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2019-05-25T09:25:01.041Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2019-05-25T09:25:01.044Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2019-05-25T09:25:01.044Z - normal: Simulator: FRAME SCALE = 1.00
+2019-05-25T09:25:01.796Z - normal: Simulator: Ready for GLSL
+2019-05-25T09:25:01.796Z - normal: Simulator: Ready for OpenGL 2.0
+2019-05-25T09:25:01.797Z - normal: Simulator: Project Config:
+2019-05-25T09:25:01.798Z - normal: Simulator:     project dir: E:\soft\CocosCreator\resources\cocos2d-x\simulator\win32\
+2019-05-25T09:25:01.798Z - normal: Simulator:     writable path: $(PROJDIR)\
+2019-05-25T09:25:01.798Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2019-05-25T09:25:01.798Z - normal: Simulator:     frame size: 640 x 960
+2019-05-25T09:25:01.799Z - normal: Simulator:     frame scale: 1.00
+2019-05-25T09:25:01.799Z - normal: Simulator:     show console: NO
+2019-05-25T09:25:01.799Z - normal: Simulator:     write debug log: NO ()
+2019-05-25T09:25:01.799Z - normal: Simulator:     listen: 
+2019-05-25T09:25:01.799Z - normal: Simulator:     debugger: none
+2019-05-25T09:25:01.799Z - normal: Simulator:     add searching path:
+2019-05-25T09:25:01.800Z - normal: Simulator: 
+2019-05-25T09:25:01.800Z - normal: Simulator: 
+2019-05-25T09:25:01.800Z - normal: Simulator: 
+2019-05-25T09:25:01.800Z - normal: Simulator: resetDesignResolution request
+2019-05-25T09:25:01.800Z - normal: Simulator: ------------------------------------------------
+2019-05-25T09:25:01.802Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2019-05-25T09:25:01.803Z - normal: Simulator: ------------------------------------------------
+2019-05-25T09:25:01.803Z - normal: Simulator: D/jswrapper (368): Initializing V8, version: 6.0.286.52
+2019-05-25T09:25:02.205Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2019-05-25T09:25:02.209Z - error: Simulator: E/jswrapper (427): Starting inspector on 0.0.0.0:5086 failed: address already in use
+    at HTMLElement.print-simulator-log (E:\soft\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1501)
+    at Object.e._dispatch (E:\soft\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
+    at EventEmitter.o.on.s (E:\soft\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2917)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2019-05-25T09:25:10.305Z - normal: Simulator: D/jswrapper (129): JS: Enable batch GL commands optimization!
+2019-05-25T09:25:10.306Z - normal: Simulator: resetDesignResolution request
+2019-05-25T09:25:10.306Z - normal: Simulator: ------------------------------------------------
+2019-05-25T09:25:10.306Z - normal: Simulator: LOAD Js FILE: main.js
+2019-05-25T09:25:10.306Z - normal: Simulator: ------------------------------------------------
+2019-05-25T09:25:10.716Z - normal: Simulator: D/jswrapper (4159): glGetIntegerv: pname: 0x8b4c
+2019-05-25T09:25:10.729Z - normal: Simulator: D/jswrapper (129): JS: Cocos Creator v2.0.9
+2019-05-25T09:25:10.853Z - normal: Simulator: iShow!
+2019-05-25T09:25:42.219Z - normal: Simulator: D/jswrapper (452): ScriptEngine::cleanup begin ...
+2019-05-25T09:25:42.220Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 14, all objects: 87
+2019-05-25T09:25:42.281Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 14, all objects: 87
+2019-05-25T09:25:42.282Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 14, all objects: 87
+2019-05-25T09:25:42.347Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 14, all objects: 87
+2019-05-25T09:25:42.352Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (1) by GC
+2019-05-25T09:25:42.353Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (2) by GC
+2019-05-25T09:25:42.354Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (3) by GC
+2019-05-25T09:25:42.354Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (1) by GC
+2019-05-25T09:25:42.354Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (4) by GC
+2019-05-25T09:25:42.354Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (2) by GC
+2019-05-25T09:25:42.354Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (3) by GC
+2019-05-25T09:25:42.355Z - normal: Simulator: D/jswrapper (327): Destroy WebGLProgram (3) by GC
+2019-05-25T09:25:42.355Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 0, all objects: 0
+2019-05-25T09:25:42.430Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 0, all objects: 0
+2019-05-25T09:25:42.431Z - error: Simulator: E/jswrapper (716): E:\soft\CocosCreator\resources\cocos2d-x\simulator\win32\Simulator.exe: ..\cocos\scripting\js-bindings\jswrapper\v8\debugger\inspector_io.cc:256: Assertion `state_ == State::kAccepting || state_ == State::kConnected' failed.
+    at HTMLElement.print-simulator-log (E:\soft\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1501)
+    at Object.e._dispatch (E:\soft\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
+    at EventEmitter.o.on.s (E:\soft\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2917)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2019-05-25T09:26:00.371Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2019-05-25T09:26:00.371Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2019-05-25T09:26:00.372Z - normal: Simulator: FRAME SCALE = 1.00
+2019-05-25T09:26:01.227Z - normal: Simulator: Ready for GLSL
+2019-05-25T09:26:01.228Z - normal: Simulator: Ready for OpenGL 2.0
+2019-05-25T09:26:01.254Z - normal: Simulator: Project Config:
+2019-05-25T09:26:01.254Z - normal: Simulator:     project dir: E:\soft\CocosCreator\resources\cocos2d-x\simulator\win32\
+2019-05-25T09:26:01.254Z - normal: Simulator:     writable path: $(PROJDIR)\
+2019-05-25T09:26:01.255Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2019-05-25T09:26:01.256Z - normal: Simulator:     frame size: 640 x 960
+2019-05-25T09:26:01.256Z - normal: Simulator:     frame scale: 1.00
+2019-05-25T09:26:01.257Z - normal: Simulator:     show console: NO
+2019-05-25T09:26:01.257Z - normal: Simulator:     write debug log: NO ()
+2019-05-25T09:26:01.257Z - normal: Simulator:     listen: 
+2019-05-25T09:26:01.257Z - normal: Simulator:     debugger: none
+2019-05-25T09:26:01.257Z - normal: Simulator:     add searching path:
+2019-05-25T09:26:01.258Z - normal: Simulator: 
+2019-05-25T09:26:01.258Z - normal: Simulator: 
+2019-05-25T09:26:01.258Z - normal: Simulator: 
+2019-05-25T09:26:01.259Z - normal: Simulator: resetDesignResolution request
+2019-05-25T09:26:01.259Z - normal: Simulator: ------------------------------------------------
+2019-05-25T09:26:01.259Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2019-05-25T09:26:01.259Z - normal: Simulator: ------------------------------------------------
+2019-05-25T09:26:01.259Z - normal: Simulator: D/jswrapper (368): Initializing V8, version: 6.0.286.52
+2019-05-25T09:26:01.635Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2019-05-25T09:26:01.636Z - error: Simulator: E/jswrapper (427): Starting inspector on 0.0.0.0:5086 failed: address already in use
+    at HTMLElement.print-simulator-log (E:\soft\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1501)
+    at Object.e._dispatch (E:\soft\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
+    at EventEmitter.o.on.s (E:\soft\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2917)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2019-05-25T09:28:34.390Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2019-05-25T09:28:34.391Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2019-05-25T09:28:34.391Z - normal: Simulator: FRAME SCALE = 1.00
+2019-05-25T09:28:35.227Z - normal: Simulator: Ready for GLSL
+2019-05-25T09:28:35.227Z - normal: Simulator: Ready for OpenGL 2.0
+2019-05-25T09:28:35.249Z - normal: Simulator: Project Config:
+2019-05-25T09:28:35.250Z - normal: Simulator:     project dir: E:\soft\CocosCreator\resources\cocos2d-x\simulator\win32\
+2019-05-25T09:28:35.251Z - normal: Simulator:     writable path: $(PROJDIR)\
+2019-05-25T09:28:35.252Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2019-05-25T09:28:35.252Z - normal: Simulator:     frame size: 640 x 960
+2019-05-25T09:28:35.253Z - normal: Simulator:     frame scale: 1.00
+2019-05-25T09:28:35.253Z - normal: Simulator:     show console: NO
+2019-05-25T09:28:35.253Z - normal: Simulator:     write debug log: NO ()
+2019-05-25T09:28:35.253Z - normal: Simulator:     listen: 
+2019-05-25T09:28:35.253Z - normal: Simulator:     debugger: none
+2019-05-25T09:28:35.254Z - normal: Simulator:     add searching path:
+2019-05-25T09:28:35.254Z - normal: Simulator: 
+2019-05-25T09:28:35.254Z - normal: Simulator: 
+2019-05-25T09:28:35.254Z - normal: Simulator: 
+2019-05-25T09:28:35.255Z - normal: Simulator: resetDesignResolution request
+2019-05-25T09:28:35.255Z - normal: Simulator: ------------------------------------------------
+2019-05-25T09:28:35.255Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2019-05-25T09:28:35.255Z - normal: Simulator: ------------------------------------------------
+2019-05-25T09:28:35.255Z - normal: Simulator: D/jswrapper (368): Initializing V8, version: 6.0.286.52
+2019-05-25T09:28:35.620Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2019-05-25T09:28:35.620Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2019-05-25T09:28:35.621Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2019-05-25T09:28:35.671Z - normal: Simulator: D/jswrapper (129): JS: Enable batch GL commands optimization!
+2019-05-25T09:28:35.672Z - normal: Simulator: resetDesignResolution request
+2019-05-25T09:28:35.672Z - normal: Simulator: ------------------------------------------------
+2019-05-25T09:28:35.672Z - normal: Simulator: LOAD Js FILE: main.js
+2019-05-25T09:28:35.673Z - normal: Simulator: ------------------------------------------------
+2019-05-25T09:28:36.069Z - normal: Simulator: D/jswrapper (4159): glGetIntegerv: pname: 0x8b4c
+2019-05-25T09:28:36.082Z - normal: Simulator: D/jswrapper (129): JS: Cocos Creator v2.0.9
+2019-05-25T09:28:36.208Z - normal: Simulator: iShow!
+2019-05-25T09:28:48.951Z - normal: Simulator: D/jswrapper (452): ScriptEngine::cleanup begin ...
+2019-05-25T09:28:48.951Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 14, all objects: 87
+2019-05-25T09:28:49.000Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 14, all objects: 87
+2019-05-25T09:28:49.000Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 14, all objects: 87
+2019-05-25T09:28:49.053Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 14, all objects: 87
+2019-05-25T09:28:49.053Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (4) by GC
+2019-05-25T09:28:49.054Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (1) by GC
+2019-05-25T09:28:49.054Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (2) by GC
+2019-05-25T09:28:49.054Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (1) by GC
+2019-05-25T09:28:49.054Z - normal: Simulator: D/jswrapper (270): Destroy WebGLBuffer (3) by GC
+2019-05-25T09:28:49.054Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (2) by GC
+2019-05-25T09:28:49.054Z - normal: Simulator: D/jswrapper (251): Destroy WebGLTexture (3) by GC
+2019-05-25T09:28:49.054Z - normal: Simulator: D/jswrapper (327): Destroy WebGLProgram (3) by GC
+2019-05-25T09:28:49.056Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 0, all objects: 0
+2019-05-25T09:28:49.104Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 0, all objects: 0
+2019-05-25T09:28:49.123Z - normal: Simulator: D/jswrapper (515): ScriptEngine::cleanup end ...
+2019-05-25T09:50:10.926Z - normal: name
+2019-05-25T09:50:11.689Z - normal: name
+2019-05-25T09:50:30.812Z - info: 1b6b50b1-a7ce-42d4-ba1f-ec87cc223c24 (1ba1Cxp85C1Lof7IfMIjwk), db://assets/font/字魂39号-肥宅快乐体.ttf
+2019-05-25T09:54:01.599Z - failed: [db-task][create] Exception  Error: EEXIST: file already exists, mkdir 'E:\Code\cocostext\a2248\assets\image\background.jpg'
+    at fs.mkdirSync (fs.js:895:18)
+    at Object.fs.mkdirSync (ELECTRON_ASAR.js:700:16)
+    at Object.mkdirsSync (E:\soft\CocosCreator\resources\app.asar\node_modules\fire-fs\node_modules\fs-extra\lib\mkdirs\mkdirs-sync.js:29:9)
+    at u._ensureDirSync (E:\soft\CocosCreator\resources\app.asar\asset-db\lib\internal.js:1:3806)
+    at u.create (E:\soft\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:18191)
+    at _tasks.r.queue (E:\soft\CocosCreator\resources\app.asar\asset-db\index.js:1:2264)
+    at E:\soft\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:987:13
+    at Immediate.process (E:\soft\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:953:21)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+2019-05-25T09:54:01.602Z - error: Failed to create asset db://assets/image/background.jpg/LabelAtlas.labelatlas, messages: Error: EEXIST: file already exists, mkdir 'E:\Code\cocostext\a2248\assets\image\background.jpg'
+    at fs.mkdirSync (fs.js:895:18)
+    at Object.fs.mkdirSync (ELECTRON_ASAR.js:700:16)
+    at Object.mkdirsSync (E:\soft\CocosCreator\resources\app.asar\node_modules\fire-fs\node_modules\fs-extra\lib\mkdirs\mkdirs-sync.js:29:9)
+    at u._ensureDirSync (E:\soft\CocosCreator\resources\app.asar\asset-db\lib\internal.js:1:3806)
+    at u.create (E:\soft\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:18191)
+    at _tasks.r.queue (E:\soft\CocosCreator\resources\app.asar\asset-db\index.js:1:2264)
+    at E:\soft\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:987:13
+    at Immediate.process (E:\soft\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:953:21)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at u.o.error (E:\soft\CocosCreator\resources\app.asar\asset-db\lib\utils.js:1:2273)
+    at Object._tasks.push [as callback] (E:\soft\CocosCreator\resources\app.asar\asset-db\lib\interface.js:1:4926)
+    at E:\soft\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:906:35
+    at _arrayEach (E:\soft\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:85:13)
+    at E:\soft\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:898:17
+    at E:\soft\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:44:16
+    at _tasks.r.queue (E:\soft\CocosCreator\resources\app.asar\asset-db\index.js:1:2347)
+    at E:\soft\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:987:13
+    at Immediate.process (E:\soft\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:953:21)
+2019-05-25T12:22:26.806Z - warn: [db-task][sync-changes] Backup unused meta file: db://assets/image/backgroung.jpg.meta
+2019-05-25T12:27:16.430Z - error: TypeError: Cannot read property 'parent' of null
+    at Object.exports.remove (E:\soft\CocosCreator\resources\app.asar\editor\builtin\assets\panel\utils\cache.js:1:1888)
+    at Object.exports.remove (E:\soft\CocosCreator\resources\app.asar\editor\builtin\assets\panel\utils\operation.js:1:2749)
+    at t.forEach.e (E:\soft\CocosCreator\resources\app.asar\editor\builtin\assets\panel\index.js:1:4240)
+    at Array.forEach (native)
+    at HTMLElement.asset-db:assets-deleted (E:\soft\CocosCreator\resources\app.asar\editor\builtin\assets\panel\index.js:1:4226)
+    at EventEmitter.i.function.t.on.e (E:\soft\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ui\panel\frame.js:1:3303)
+    at emitTwo (events.js:111:20)
+    at EventEmitter.emit (events.js:194:7)
+2019-05-25T13:39:30.697Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:170418
+2019-05-25T13:39:30.701Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:170420
+2019-05-25T13:39:30.706Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:170421
+2019-05-25T13:39:30.706Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:170422
+2019-05-25T13:39:30.707Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:170423
+2019-05-25T13:39:30.708Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:170424
+2019-05-25T13:39:30.708Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:170425
+2019-05-25T13:39:30.709Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:170426
+2019-05-25T13:39:30.709Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:170427
+2019-05-25T13:39:30.710Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:170428
+2019-05-25T13:39:30.712Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:170429
+2019-05-25T13:39:30.712Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:170430
+2019-05-25T13:39:30.716Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:170431
+2019-05-25T13:39:30.716Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:170432
+2019-05-25T13:39:30.717Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:170433
+2019-05-25T13:39:30.717Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:170434
+2019-05-25T13:39:30.718Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:170435
+2019-05-25T13:39:30.719Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:170436
+2019-05-25T13:39:30.720Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:170437
+2019-05-26T11:58:49.735Z - failed: [db-task][sync-changes] Failed to import asset E:\Code\cocostext\a2248\assets\script\text.js, message: Compile error: SyntaxError: E:/Code/cocostext/a2248/assets/script/text.js: Unexpected token (5:8)
+  3 |         '根节点': {
+  4 |             '功能'
+> 5 |         }
+    |         ^
+  6 |     }
+  7 | })
+    at Parser.pp$5.raise (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseObjPropValue (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4142:19)
+    at Parser.pp$3.parseObj (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4048:10)
+    at Parser.pp$3.parseExprAtom (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3719:19)
+    at Parser.pp$3.parseExprSubscripts (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3344:19)
+2019-05-26T11:58:50.804Z - failed: load script [E:\Code\cocostext\a2248\temp\quick-scripts\assets\script\text.js] failed : ReferenceError: 功能 is not defined
+    at __define (E:\Code\cocostext\a2248\temp\quick-scripts\assets\script\text.js:10:17)
+    at E:\Code\cocostext\a2248\temp\quick-scripts\assets\script\text.js:18:13
+    at Object.<anonymous> (E:\Code\cocostext\a2248\temp\quick-scripts\assets\script\text.js:25:11)
+    at Object.<anonymous> (E:\Code\cocostext\a2248\temp\quick-scripts\assets\script\text.js:28:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2019-05-26T11:58:50.996Z - warn: The Asset used by component "cc.Sprite" is missing. Detailed information:
+Node path: "background/background"
+Missing uuid: "94fa63de-00d9-44f3-bd40-47fb3c9b1328"
+
+2019-05-26T11:58:51.012Z - warn: The Asset used by component "cc.Sprite" is missing. Detailed information:
+Node path: "background"
+Missing uuid: "94fa63de-00d9-44f3-bd40-47fb3c9b1328"
+
+2019-05-27T10:34:38.774Z - failed: [db-task][sync-changes] Failed to import asset E:\Code\cocostext\a2248\assets\script\text.js, message: Compile error: SyntaxError: E:/Code/cocostext/a2248/assets/script/text.js: Unexpected token (10:8)
+   8 |         '根节点': {
+   9 |             '功能'
+> 10 |         }
+     |         ^
+  11 |     }
+  12 | })
+    at Parser.pp$5.raise (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseObjPropValue (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4142:19)
+    at Parser.pp$3.parseObj (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4048:10)
+    at Parser.pp$3.parseExprAtom (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3719:19)
+    at Parser.pp$3.parseExprSubscripts (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3344:19)
+2019-05-27T10:36:12.343Z - failed: load script [E:\Code\cocostext\a2248\temp\quick-scripts\assets\script\text.js] failed : ReferenceError: digitalLattice is not defined
+    at __define (E:\Code\cocostext\a2248\temp\quick-scripts\assets\script\text.js:11:1)
+    at E:\Code\cocostext\a2248\temp\quick-scripts\assets\script\text.js:16:13
+    at Object.<anonymous> (E:\Code\cocostext\a2248\temp\quick-scripts\assets\script\text.js:23:11)
+    at Object.<anonymous> (E:\Code\cocostext\a2248\temp\quick-scripts\assets\script\text.js:26:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2019-05-27T10:37:16.980Z - failed: [db-task][sync-changes] Failed to import asset E:\Code\cocostext\a2248\assets\script\text.js, message: Compile error: SyntaxError: E:/Code/cocostext/a2248/assets/script/text.js: Unexpected token, expected ; (3:13)
+  1 | 目录结构:{
+  2 |     canvas:
+> 3 |         Main Camera;
+    |              ^
+  4 | 
+  5 |     
+  6 | }
+    at Parser.pp$5.raise (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp.semicolon (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1742:38)
+    at Parser.pp$1.parseExpressionStatement (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:2236:8)
+    at Parser.pp$1.parseStatement (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1911:17)
+    at Parser.pp$1.parseLabeledStatement (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:2228:20)
+    at Parser.pp$1.parseStatement (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1909:17)
+    at Parser.pp$1.parseBlockBody (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:2268:21)
+    at Parser.pp$1.parseBlock (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:2247:8)
+    at Parser.pp$1.parseStatement (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1868:19)
+2019-05-27T10:39:11.498Z - failed: [db-task][sync-changes] Failed to import asset E:\Code\cocostext\a2248\assets\script\text.js, message: Compile error: SyntaxError: E:/Code/cocostext/a2248/assets/script/text.js: Unexpected token, expected ; (3:13)
+  1 | 节点结构:{
+  2 |     canvas:
+> 3 |         Main Camera,
+    |              ^
+  4 |         background,
+  5 | 
+  6 | 
+    at Parser.pp$5.raise (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp.semicolon (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1742:38)
+    at Parser.pp$1.parseExpressionStatement (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:2236:8)
+    at Parser.pp$1.parseStatement (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1911:17)
+    at Parser.pp$1.parseLabeledStatement (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:2228:20)
+    at Parser.pp$1.parseStatement (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1909:17)
+    at Parser.pp$1.parseBlockBody (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:2268:21)
+    at Parser.pp$1.parseBlock (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:2247:8)
+    at Parser.pp$1.parseStatement (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1868:19)
+2019-05-27T10:47:59.623Z - error: [db-task][delete] Failed to delete asset undefined, messages: Error: Asset E:\Code\cocostext\a2248\assets\.fire is not exists
+    at E:\soft\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:17143
+    at i.each (E:\soft\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:17570)
+    at E:\soft\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:181:20
+    at Object.async.forEachOf.async.eachOf (E:\soft\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:233:13)
+    at Object.async.forEach.async.each (E:\soft\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:209:22)
+    at u.delete (E:\soft\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:17073)
+    at _tasks.r.queue (E:\soft\CocosCreator\resources\app.asar\asset-db\index.js:1:2264)
+    at E:\soft\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:987:13
+    at Immediate.process (E:\soft\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:953:21)
+    at runCallback (timers.js:672:20)
+    at u.o.error (E:\soft\CocosCreator\resources\app.asar\asset-db\lib\utils.js:1:2250)
+    at E:\soft\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:17622
+    at E:\soft\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:17141
+    at i.each (E:\soft\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:17570)
+    at E:\soft\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:181:20
+    at Object.async.forEachOf.async.eachOf (E:\soft\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:233:13)
+    at Object.async.forEach.async.each (E:\soft\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:209:22)
+    at u.delete (E:\soft\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:17073)
+    at _tasks.r.queue (E:\soft\CocosCreator\resources\app.asar\asset-db\index.js:1:2264)
+2019-05-27T10:48:04.789Z - error: [db-task][delete] Failed to delete asset undefined, messages: Error: Asset E:\Code\cocostext\a2248\assets\.fire is not exists
+    at E:\soft\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:17143
+    at i.each (E:\soft\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:17570)
+    at E:\soft\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:181:20
+    at Object.async.forEachOf.async.eachOf (E:\soft\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:233:13)
+    at Object.async.forEach.async.each (E:\soft\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:209:22)
+    at u.delete (E:\soft\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:17073)
+    at _tasks.r.queue (E:\soft\CocosCreator\resources\app.asar\asset-db\index.js:1:2264)
+    at E:\soft\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:987:13
+    at Immediate.process (E:\soft\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:953:21)
+    at runCallback (timers.js:672:20)
+    at u.o.error (E:\soft\CocosCreator\resources\app.asar\asset-db\lib\utils.js:1:2250)
+    at E:\soft\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:17622
+    at E:\soft\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:17141
+    at i.each (E:\soft\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:17570)
+    at E:\soft\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:181:20
+    at Object.async.forEachOf.async.eachOf (E:\soft\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:233:13)
+    at Object.async.forEach.async.each (E:\soft\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:209:22)
+    at u.delete (E:\soft\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:17073)
+    at _tasks.r.queue (E:\soft\CocosCreator\resources\app.asar\asset-db\index.js:1:2264)
+2019-05-27T10:49:35.524Z - failed: [db-task][sync-changes] Failed to import asset E:\Code\cocostext\a2248\assets\js\text.js, message: Compile error: SyntaxError: E:/Code/cocostext/a2248/assets/js/text.js: Unexpected token, expected ; (3:13)
+  1 | 节点结构:{
+  2 |     canvas:
+> 3 |         Main Camera,
+    |              ^
+  4 |         background,
+  5 | 
+  6 | 
+    at Parser.pp$5.raise (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp.semicolon (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1742:38)
+    at Parser.pp$1.parseExpressionStatement (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:2236:8)
+    at Parser.pp$1.parseStatement (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1911:17)
+    at Parser.pp$1.parseLabeledStatement (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:2228:20)
+    at Parser.pp$1.parseStatement (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1909:17)
+    at Parser.pp$1.parseBlockBody (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:2268:21)
+    at Parser.pp$1.parseBlock (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:2247:8)
+    at Parser.pp$1.parseStatement (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1868:19)
+2019-05-28T06:55:06.405Z - failed: [db-task][sync-changes] Failed to import asset E:\Code\cocostext\a2248\assets\js\text.js, message: Compile error: SyntaxError: E:/Code/cocostext/a2248/assets/js/text.js: Unexpected character '：' (4:24)
+  2 |     canvas:
+  3 |         MainCamera      : 摄像机,
+> 4 |         background      ：背景,
+    |                         ^
+  5 |         title           : 2248标题,
+  6 |         start           : 开始按钮,
+  7 |         hightScore      : 最高分按钮,
+    at Parser.pp$5.raise (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.getTokenFromCode (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1147:10)
+    at Parser.readToken (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:776:19)
+    at Parser.nextToken (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:766:19)
+    at Parser.next (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:691:10)
+    at Parser.pp$3.parseIdentifier (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4341:8)
+    at Parser.pp$3.parseExprAtom (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3648:21)
+    at Parser.pp$3.parseExprSubscripts (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3404:19)
+2019-05-28T10:46:10.351Z - failed: [db-task][sync-changes] Failed to import asset E:\Code\cocostext\a2248\assets\js\text.js, message: Compile error: SyntaxError: E:/Code/cocostext/a2248/assets/js/text.js: Unexpected character '：' (4:24)
+  2 |     canvas:
+  3 |         MainCamera      : 摄像机,
+> 4 |         background      ：背景,
+    |                         ^
+  5 |         title           : 2248标题,
+  6 |         start           : 开始按钮,
+  7 |         hightScore      : 最高分按钮,
+    at Parser.pp$5.raise (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.getTokenFromCode (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1147:10)
+    at Parser.readToken (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:776:19)
+    at Parser.nextToken (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:766:19)
+    at Parser.next (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:691:10)
+    at Parser.pp$3.parseIdentifier (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4341:8)
+    at Parser.pp$3.parseExprAtom (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3648:21)
+    at Parser.pp$3.parseExprSubscripts (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3404:19)
