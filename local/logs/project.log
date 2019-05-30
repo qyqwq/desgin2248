@@ -581,3 +581,36 @@ Missing uuid: "94fa63de-00d9-44f3-bd40-47fb3c9b1328"
     at Parser.pp$3.parseExprSubscripts (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3494:19)
     at Parser.pp$3.parseMaybeUnary (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3474:19)
     at Parser.pp$3.parseExprOps (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3404:19)
+2019-05-28T14:41:24.281Z - warn: [db-task][sync-changes] Backup unused meta file: db://assets/js.meta
+2019-05-28T14:41:24.372Z - error: TypeError: Cannot read property 'parent' of null
+    at Object.exports.remove (E:\soft\CocosCreator\resources\app.asar\editor\builtin\assets\panel\utils\cache.js:1:1888)
+    at Object.exports.remove (E:\soft\CocosCreator\resources\app.asar\editor\builtin\assets\panel\utils\operation.js:1:2749)
+    at t.forEach.e (E:\soft\CocosCreator\resources\app.asar\editor\builtin\assets\panel\index.js:1:4240)
+    at Array.forEach (native)
+    at HTMLElement.asset-db:assets-deleted (E:\soft\CocosCreator\resources\app.asar\editor\builtin\assets\panel\index.js:1:4226)
+    at EventEmitter.i.function.t.on.e (E:\soft\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ui\panel\frame.js:1:3303)
+    at emitTwo (events.js:111:20)
+    at EventEmitter.emit (events.js:194:7)
+2019-05-28T14:41:24.444Z - failed: [db-task][sync-changes] Failed to import asset E:\Code\cocostext\a2248\assets\script\text.js, message: Compile error: SyntaxError: E:/Code/cocostext/a2248/assets/script/text.js: Unexpected character '：' (4:24)
+  2 |     canvas:
+  3 |         MainCamera      : 摄像机,
+> 4 |         background      ：背景,
+    |                         ^
+  5 |         title           : 2248标题,
+  6 |         start           : 开始按钮,
+  7 |         hightScore      : 最高分按钮,
+    at Parser.pp$5.raise (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.getTokenFromCode (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1147:10)
+    at Parser.readToken (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:776:19)
+    at Parser.nextToken (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:766:19)
+    at Parser.next (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:691:10)
+    at Parser.pp$3.parseIdentifier (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4341:8)
+    at Parser.pp$3.parseExprAtom (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3648:21)
+    at Parser.pp$3.parseExprSubscripts (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3404:19)
+2019-05-28T14:41:58.397Z - error: TypeError: Cannot read property 'assetType' of null
+    at HTMLElement.assets:new-asset (E:\soft\CocosCreator\resources\app.asar\editor\builtin\assets\panel\index.js:1:4996)
+    at EventEmitter.i.function.t.on.e (E:\soft\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ui\panel\frame.js:1:3303)
+    at emitThree (events.js:116:13)
+    at EventEmitter.emit (events.js:197:7)

@@ -279,14 +279,19 @@
     "meta": 1558791674766,
     "relativePath": "font\\字魂31号-凝宋.ttf"
   },
-  "b8c2a4a1-7cad-414b-876b-5b112fd5f69f": {
-    "asset": 1558954175469,
-    "meta": 1558954175466,
-    "relativePath": "js"
-  },
   "285c5378-eaef-4082-97f1-99ed2ee8b302": {
-    "asset": 1559040365578,
+    "asset": 1559054369243,
     "meta": 1558954175473,
-    "relativePath": "js\\text.js"
+    "relativePath": "script\\text.js"
+  },
+  "05a52ff7-064c-4ca8-8feb-76a6666227cf": {
+    "asset": 1558954175469,
+    "meta": 1559054484355,
+    "relativePath": "script"
+  },
+  "b38605f1-3750-4408-a9d7-4921bfc0b78e": {
+    "asset": 1559054522956,
+    "meta": 1559054522965,
+    "relativePath": "animation"
   }
 }

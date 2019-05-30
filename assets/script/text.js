@@ -25,11 +25,12 @@
         变量 : {
             activeQueue : 动作队列
             sceneId     : 当前场景id
+            lineStack   : 连线栈
         }
         方法 : {
-            toMenu() : 进入主菜单时调用     /* 包括：场景id切换，指导动画播放 */
+            toMenu() : 进入主菜单时调用     /* 包括：场景id切换，指导动画播放（如果是从游戏状态切换到主界面，要先调用游戏） */
             toGame() : 进入游戏场景时调用
-            
+            /* 触摸事件 */
         }
 
     }
@@ -40,13 +41,22 @@
             digitalQueue[] : 数字队列数组  /* 队列使用参考：https://www.cnblogs.com/anniey/p/7127872.html */
         }
         方法 : {
-            newDigital( x , y ) : 生成数组 /* 先检查有没有保存的文件，没有就 */
+            newDigital( x , y ) : 生成数组 /* 先检查有没有合法的保存文件（长宽符合），没有就新建 */
+            updata(  )
+            save() : 保存当前游戏至文件 /* http://docs.cocos.com/creator/manual/zh/advanced-topics/data-storage.html */
         }
     }
     /* 动画组 */
     animation : {
-        down() : {
+        toMenuAnimation() : { /* 进入菜单时的动画 */
 
         }
+        digitalDown() : { /* 数字下落 */
+
+        }
+        gameAreaCloseAnimation() : { /* 游戏区域关闭动画 */
+
+        }
+
     }
 }
