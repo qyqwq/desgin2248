@@ -5,7 +5,7 @@ cc.Class({
         this.sceneId = this.MENUID;
         /* cc.log(this.sceneId); */
         /* 调用开始场景动画 */
-        var action = require("userAction");
+        var action =new require("userAction");
         action.inMenu();
     },
     properties: {

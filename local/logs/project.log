@@ -604,3 +604,66 @@ Missing uuid: "d732a327-868a-4a07-94ed-a804ac76bd4f"
     at flow (E:\soft\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\pipeline.js:33:35)
     at flow (E:\soft\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\pipeline.js:27:21)
     at flow (E:\soft\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\pipeline.js:27:21)
+2019-06-02T02:27:47.143Z - error: TypeError: action.inMenu is not a function
+    at new Basic (eval at <anonymous> (E:\soft\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:486:20), <anonymous>:10:4)
+    at _Deserializer.prototype._deserializeObject (E:\soft\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\platform\deserialize.js:146:31)
+    at _Deserializer.prototype.deserialize (E:\soft\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\platform\deserialize.js:107:65)
+    at Object.cc.deserialize (E:\soft\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\platform\deserialize.js:535:36)
+    at Loader.loadUuid (E:\soft\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\uuid-loader.js:208:28)
+    at Loader.handle (E:\soft\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\loader.js:124:29)
+    at flow (E:\soft\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\pipeline.js:33:35)
+    at flow (E:\soft\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\pipeline.js:27:21)
+    at flow (E:\soft\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\pipeline.js:27:21)
+2019-06-02T02:27:47.374Z - warn: The Asset used by component "cc.Sprite" is missing. Detailed information:
+Node path: "soundOpen"
+Missing uuid: "1c37224a-afe4-4c90-9a1d-a747c4675e56"
+
+2019-06-02T02:42:27.111Z - failed: [db-task][sync-changes] Failed to import asset E:\Code\cocostext\a2248\assets\script\digitalGroup.js, message: Compile error: SyntaxError: E:/Code/cocostext/a2248/assets/script/digitalGroup.js: Unexpected token, expected ; (2:25)
+  1 | /* 申明封装变量 */
+> 2 | var width, height,digital[];
+    |                          ^
+    at Parser.pp$5.raise (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp.semicolon (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1742:38)
+    at Parser.pp$1.parseVarStatement (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:2170:8)
+    at Parser.pp$1.parseStatement (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1861:19)
+    at Parser.pp$1.parseBlockBody (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:2268:21)
+    at Parser.pp$1.parseTopLevel (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1778:8)
+    at Parser.parse (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1673:17)
+    at parse (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:7305:37)
+    at File.parse (E:\soft\CocosCreator\resources\app.asar\node_modules\babel-core\lib\transformation\file\index.js:527:15)
+2019-06-02T03:10:24.826Z - failed: [db-task][sync-changes] Failed to import asset E:\Code\cocostext\a2248\assets\script\digitalGroup.js, message: Compile error: SyntaxError: E:/Code/cocostext/a2248/assets/script/digitalGroup.js: Unexpected token (7:4)
+  5 |  */
+  6 | var width, height, digital = new Array();
+> 7 | var 
+    |     ^
+    at Parser.pp$5.raise (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$2.parseBindingAtom (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3090:12)
+    at Parser.pp$1.parseVarHead (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:2355:18)
+    at Parser.pp$1.parseVar (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:2338:10)
+    at Parser.pp$1.parseVarStatement (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:2169:8)
+    at Parser.pp$1.parseStatement (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1861:19)
+    at Parser.pp$1.parseBlockBody (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:2268:21)
+    at Parser.pp$1.parseTopLevel (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1778:8)
+    at Parser.parse (E:\soft\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1673:17)
+2019-06-02T03:14:37.637Z - error: TypeError: action.inMenu is not a function
+    at new Basic (eval at <anonymous> (E:\soft\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:486:20), <anonymous>:10:4)
+    at _Deserializer.prototype._deserializeObject (E:\soft\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\platform\deserialize.js:146:31)
+    at _Deserializer.prototype.deserialize (E:\soft\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\platform\deserialize.js:107:65)
+    at Object.cc.deserialize (E:\soft\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\platform\deserialize.js:535:36)
+    at Loader.loadUuid (E:\soft\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\uuid-loader.js:208:28)
+    at Loader.handle (E:\soft\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\loader.js:124:29)
+    at flow (E:\soft\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\pipeline.js:33:35)
+    at flow (E:\soft\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\pipeline.js:27:21)
+    at flow (E:\soft\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\pipeline.js:27:21)
+2019-06-02T04:16:51.172Z - error: TypeError: action.inMenu is not a function
+    at new Basic (eval at <anonymous> (E:\soft\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:486:20), <anonymous>:10:4)
+    at _Deserializer.prototype._deserializeObject (E:\soft\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\platform\deserialize.js:146:31)
+    at _Deserializer.prototype.deserialize (E:\soft\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\platform\deserialize.js:107:65)
+    at Object.cc.deserialize (E:\soft\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\platform\deserialize.js:535:36)
+    at Loader.loadUuid (E:\soft\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\uuid-loader.js:208:28)
+    at Loader.handle (E:\soft\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\loader.js:124:29)
+    at flow (E:\soft\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\pipeline.js:33:35)
+    at flow (E:\soft\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\pipeline.js:27:21)
+    at flow (E:\soft\CocosCreator\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\pipeline.js:27:21)

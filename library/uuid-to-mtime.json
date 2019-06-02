@@ -74,11 +74,6 @@
     "meta": 1559288171036,
     "relativePath": "fnt"
   },
-  "3bc20c5e-c115-45f8-827f-c1ab6cc2e161": {
-    "asset": 1559201264932,
-    "meta": 1559288171298,
-    "relativePath": "script\\digitalGroup.js"
-  },
   "a6f185da-b7a5-441b-ac42-c52b126791ef": {
     "asset": 1559290043099,
     "meta": 1559290043129,
@@ -309,11 +304,6 @@
     "meta": 1559311815688,
     "relativePath": "script\\userAction.js"
   },
-  "dd2101d0-1ee1-4f12-914a-ebaa747fb6cf": {
-    "asset": 1559312504412,
-    "meta": 1559312507292,
-    "relativePath": "script\\Basic.js"
-  },
   "0a3a991d-66be-4ffd-af54-64fa4cbb8681": {
     "asset": 1559312440076,
     "meta": 1559312607058,
@@ -323,5 +313,15 @@
     "asset": 1559312716452,
     "meta": 1559312718042,
     "relativePath": "image\\ico5.plist"
+  },
+  "dd2101d0-1ee1-4f12-914a-ebaa747fb6cf": {
+    "asset": 1559442458785,
+    "meta": 1559442466267,
+    "relativePath": "script\\Basic.js"
+  },
+  "3bc20c5e-c115-45f8-827f-c1ab6cc2e161": {
+    "asset": 1559446026467,
+    "meta": 1559449010543,
+    "relativePath": "script\\digitalGroup.js"
   }
 }
