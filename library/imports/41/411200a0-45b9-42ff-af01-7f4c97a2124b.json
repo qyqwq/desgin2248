@@ -1,0 +1,86 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ico5.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "2": {
+      "__uuid__": "13f9b704-2cb5-4be9-b88a-d68bbeb8dd3e"
+    },
+    "4": {
+      "__uuid__": "6bdf0357-bfb8-4ce3-abfa-00290be34d73"
+    },
+    "8": {
+      "__uuid__": "200ad5e9-8634-4c24-99ed-3ed6d75bcda3"
+    },
+    "16": {
+      "__uuid__": "2faeee7e-56bd-4527-be5e-eed011376854"
+    },
+    "64": {
+      "__uuid__": "8f6d1b0d-ef00-4069-8fed-cd7893a383a7"
+    },
+    "128": {
+      "__uuid__": "05d6347d-654a-4077-a0b5-29bab1e46d76"
+    },
+    "256": {
+      "__uuid__": "f9d4b3e0-35e7-4687-bad4-a53816c298c5"
+    },
+    "512": {
+      "__uuid__": "af2a4d8b-49aa-45c4-a61e-a3a0c50a7061"
+    },
+    "16K": {
+      "__uuid__": "cb9c7b16-0505-4539-b292-14d6c9236f73"
+    },
+    "1K": {
+      "__uuid__": "0245e2fe-0575-4ec6-a8ce-6e89326a4e95"
+    },
+    "title": {
+      "__uuid__": "1517a316-1ef5-4e84-9ddc-5a88a400db03"
+    },
+    "2k": {
+      "__uuid__": "40e9d278-9d62-4153-8891-137475ddc00c"
+    },
+    "32K": {
+      "__uuid__": "260a685b-8db1-4094-acca-cc47ab3b6f23"
+    },
+    "4k": {
+      "__uuid__": "271ef49a-1d6c-4c4d-9da9-7cb4a5aeef1a"
+    },
+    "64K": {
+      "__uuid__": "96cee301-0c1e-4966-a3a1-2bd77165005e"
+    },
+    "8K": {
+      "__uuid__": "4e2b66b0-eca7-45e5-9b2f-d8cac47d8873"
+    },
+    "good": {
+      "__uuid__": "1fcaea7f-efd5-436d-b935-8a3d0b773286"
+    },
+    "help": {
+      "__uuid__": "768971c2-ef57-4118-b4f7-f2c2782f0ae1"
+    },
+    "start": {
+      "__uuid__": "86e7286d-f45a-4960-8253-e8a3f52ce5a3"
+    },
+    "soundClose": {
+      "__uuid__": "8e4d63b1-d6bd-4546-b2e8-3b4766d2a7ad"
+    },
+    "overMedia": {
+      "__uuid__": "0948879f-1bf7-45bb-a179-353670763d46"
+    },
+    "over": {
+      "__uuid__": "99129ec3-9cd5-44d3-b6ab-51fc9a210b9d"
+    },
+    "leaderBoard": {
+      "__uuid__": "821d4a19-07c0-4840-bc55-83cc4e39ed88"
+    },
+    "setting": {
+      "__uuid__": "0153c746-a5ae-48eb-a975-fcdbe83acb28"
+    },
+    "soundOpen": {
+      "__uuid__": "6bc4bd1e-81d8-446f-a24a-09aaa5f8eac9"
+    },
+    "stop": {
+      "__uuid__": "d1d269c2-3530-4b79-82ca-0ac64d3e331f"
+    }
+  }
+}
